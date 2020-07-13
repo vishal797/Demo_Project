@@ -1,7 +1,7 @@
 public class ReverseNumber {
 
     public static void main(String[] args) {
-
+        static String="How are you"
         int num = 1234, reversed = 0;
 
         while(num != 0) {
